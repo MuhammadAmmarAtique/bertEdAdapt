@@ -1,0 +1,31 @@
+question,answer,feedback,recommended_topic
+What is a loop?,A loop repeats something again.,Good,Loops – Advanced
+What is a loop?,It runs many times.,Average,Loops – Basics
+What is a loop?,I don’t know.,Needs Improvement,Introduction to Loops
+Define a variable.,Variable is a box to store data.,Good,Data Types – Advanced
+Define a variable.,It’s a value.,Average,Variables – Basics
+Define a variable.,No idea.,Needs Improvement,Variables – Beginner
+What is a function?,A block of code that does something.,Good,Functions – Advanced
+What is a function?,A thing that returns something.,Average,Functions – Basics
+What is a function?,I forget.,Needs Improvement,Functions – Introduction
+Explain array.,Array stores many items.,Good,Arrays – Next Level
+Explain array.,It’s used in loops.,Average,Arrays – Basics
+Explain array.,Never heard.,Needs Improvement,Intro to Arrays
+What is an object?,Object is key-value pairs.,Good,Objects – Deep Dive
+What is an object?,It stores data.,Average,Objects – Basics
+What is an object?,I don’t understand.,Needs Improvement,Object-Oriented Concepts
+Explain conditional statements.,They check something and run code.,Good,Conditionals – Complex Cases
+Explain conditional statements.,"If something is true, it runs.",Average,Conditionals – Basics
+Explain conditional statements.,No idea.,Needs Improvement,Intro to Conditions
+What is a class?,Class is a blueprint.,Good,OOP – Advanced Classes
+What is a class?,Used to make objects.,Average,OOP – Basics
+What is a class?,I’m not sure.,Needs Improvement,OOP – Beginner Guide
+What is an algorithm?,Steps to solve a problem.,Good,Algorithm Design
+What is an algorithm?,Something we do to get answer.,Average,Algorithms – Basics
+What is an algorithm?,Never studied that.,Needs Improvement,Algorithms – Intro
+Define database.,Stores info in tables.,Good,Databases – SQL & NoSQL
+Define database.,It saves data.,Average,Databases – Basics
+Define database.,No idea.,Needs Improvement,Intro to Databases
+What is an API?,It connects software.,Good,API Integration – REST & JSON
+What is an API?,Used for data exchange.,Average,API Basics
+What is an API?,Not learned yet.,Needs Improvement,Intro to APIs
